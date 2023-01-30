@@ -1,3 +1,4 @@
+# data_scientist_ride_sharing
 # Pendahuluan <a id='Pendahuluan'></a>
 
 Zuber adalah sebuah perusahaan berbagi tumpangan (ride-sharing) baru yang diluncurkan di Chicago. Tujuan projek ini untuk menemukan pola pada informasi yang tersedia. Dan memahami preferensi penumpang dan dampak faktor eksternal terhadap perjalanan.
