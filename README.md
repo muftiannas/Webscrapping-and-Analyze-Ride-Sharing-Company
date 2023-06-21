@@ -1,12 +1,11 @@
-# data_scientist_ride_sharing
-# Pendahuluan <a id='Pendahuluan'></a>
+# Webscrapping and Analyze Ride Sharing Company
 
-Zuber adalah sebuah perusahaan berbagi tumpangan (ride-sharing) baru yang diluncurkan di Chicago. Tujuan projek ini untuk menemukan pola pada informasi yang tersedia. Dan memahami preferensi penumpang dan dampak faktor eksternal terhadap perjalanan.
-Dengan menggunakan basis data, akan dilakukan analisis data dari kompetitor dan menguji hipotesis terkait pengaruh cuaca terhadap frekuensi perjalanan. Selain itu juga dilakukan Uji hipotesis yang menyatakan bahwa durasi perjalanan berubah pada hari-hari Sabtu yang hujan.
+Zuber is a new ride-sharing company launched in Chicago. The aim of this project is to find patterns in the available information. And understand passenger preferences and the impact of external factors on trips.
+Using the database, we will analyze data from competitors and test hypotheses related to the effect of weather on trip frequency. In addition, a hypothesis test was also carried out which stated that the trip duration changed on rainy Saturdays.
 
-Untuk mencapai tujuan projek dilakukan langkah berikut :
-1. Web scraping data cuaca di Chicago pada bulan November 2017
-2. Analisis Data Eksploratif (SQL)
-3. Uji hipotesis yang menyatakan bahwa durasi perjalanan berubah pada hari-hari Sabtu yang hujan (SQL)
-4. Analisis Data Eksploratif
-5. Uji hipotesis
+To achieve the project objectives, the following steps were taken:
+1. Web scraping weather data in Chicago in November 2017
+2. Explorative Data Analysis (SQL)
+3. Test the hypothesis that the trip duration changes on rainy Saturdays (SQL)
+4. Explorative Data Analysis
+5. Test the hypothesis
